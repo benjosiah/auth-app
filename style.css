@@ -1,0 +1,24 @@
+body{
+	background-color: #fff;
+
+}
+.container{
+	background-color: #ddd;
+	margin: auto;
+	width: 50%;
+	min-height: auto;
+	max-height: 500px;
+}
+input{
+	width: 50%;
+	background-color: violet;
+	margin: auto;
+
+} 
+.error{
+	color: red;
+}
+.info{
+	width: 80%;
+	margin: auto;
+}
